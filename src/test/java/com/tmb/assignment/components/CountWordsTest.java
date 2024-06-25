@@ -1,4 +1,4 @@
-package com.tmb.CandidateQuiz.components;
+package com.tmb.assignment.components;
 
 import static org.junit.jupiter.api.Assertions.*;
 

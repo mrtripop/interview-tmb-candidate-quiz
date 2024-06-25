@@ -1,4 +1,4 @@
-package com.tmb.CandidateQuiz.components;
+package com.tmb.assignment.components;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -22,7 +22,7 @@ class FindNumberTest {
 
   @Test
   @DisplayName("[SUCCESS] Find number nine in array")
-  void success_find_nine_number_in_array() throws Exception {
+  void success_find_nine_number_in_array() {
     // action
     Integer result = findNumber.findNine();
     // assert

@@ -1,4 +1,4 @@
-package com.tmb.CandidateQuiz.models;
+package com.tmb.assignment.models;
 
 public class CustomerDTO {
   private String customerId;

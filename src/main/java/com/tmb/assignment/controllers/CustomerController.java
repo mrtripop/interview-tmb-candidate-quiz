@@ -1,7 +1,7 @@
-package com.tmb.CandidateQuiz.controllers;
+package com.tmb.assignment.controllers;
 
-import com.tmb.CandidateQuiz.models.Customer;
-import com.tmb.CandidateQuiz.models.CustomerDTO;
+import com.tmb.assignment.models.Customer;
+import com.tmb.assignment.models.CustomerDTO;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
